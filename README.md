@@ -6,7 +6,7 @@ A modern, **CPU-optimized** Retrieval-Augmented Generation (RAG) system for Sans
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/rudrakshseth01/RAG_Sanskrit_Rudraksh.git
+git clone https://github.com/rudrakshseth01/RAG_Sanskrit_Rudraksh_seth1.git
 cd RAG_Sanskrit_Rudraksh_seth
 ```
 
