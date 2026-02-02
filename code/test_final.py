@@ -477,5 +477,4 @@ st.markdown("""
 ### 📝 Notes
 - All queries must be in Sanskrit (Devanagari script)
 - The system uses FAISS for efficient similarity search
-- Answers are generated using Google's Flan-T5 model
 """)
